@@ -1,2 +1,13 @@
 # sentiment-analysis-amazon-reviews
-trying different Sentiment Analysis methods on amazon reviews kaggle dataset : https://www.kaggle.com/bittlingmayer/amazonreviews/home
+
+Still in progress but the goal is to test classical machine learning algorithms such as:
+*SVM
+*Naive Bayes
+*Decision Tree
+*Random Forest
+
+and also use deep learning models:
+*Dense Deep NN
+*Sequence Models
+
+dataset: https://www.kaggle.com/bittlingmayer/amazonreviews/home
